@@ -1,2 +1,3 @@
 Pluto is a planet
-two moons
+Two moons.
+One of the moons is called Charon.
