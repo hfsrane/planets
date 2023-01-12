@@ -3,3 +3,4 @@ Mars is red.
 And has marsquakes, more than we thought.
 And two moons.
 They are very small.
+But what is their size?
