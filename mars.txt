@@ -1,3 +1,4 @@
 Mars is red.
 
 And has marsquakes.
+And two moons.
